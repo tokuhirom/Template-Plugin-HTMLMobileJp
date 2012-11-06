@@ -2,7 +2,7 @@ package Template::Plugin::HTMLMobileJp;
 use strict;
 use warnings;
 use base 'Template::Plugin';
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 use HTML::MobileJp ();
 
 for my $method (@HTML::MobileJp::EXPORT) {
