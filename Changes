@@ -1,8 +1,10 @@
-Revision history for Perl extension Template::Plugin::HTMLMobileJp
+Revision history for Perl module Template::Plugin::HTMLMobileJp
 
-0.02
+0.02 2012-11-05
 
     - modernize package
 
-0.01    Wed Jan 16 16:07:07 2008
-        - original version
+0.01 2008-01-16
+
+    - original version
+
